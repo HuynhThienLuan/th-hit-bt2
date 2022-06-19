@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main() {
-    prinft(" Hello Word");
+    prinft(" Hello \n Word");
 }
